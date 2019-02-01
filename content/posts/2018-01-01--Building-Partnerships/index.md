@@ -1,6 +1,6 @@
 ---
 title: "Building Partnerships to Address Unlawful Camping"
-date: "2018-01-01"
+date: "2018-10-09"
 cover: /assets/policing.png
 logo: /assets/agency/dpsst.png
 agency: "Corvallis Police Department"
