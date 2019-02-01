@@ -1,14 +1,16 @@
 ---
 title: "Deschutes County Crisis Intervention Team"
-date: "2018-01-01"
+date: "2016-03-31"
 cover: /assets/policing.png
-logo: /assets/agency/deschutes-sheriff-logo.png
+logo: /assets/agency/bend-pd-logo.png
+agency: "Bend Police Department"
+agencyid: "bend-pd"
+author: "Eilene Flory, CIT Coordinator"
 category: "Policing"
 tags:
-  - "CIT"
-  - "crisis intervention"
-  - "mental health"
-  - "training"
+  - "Crisis Intervention"
+  - "Mental Illness"
+  - "Training"
 subTitle: "CIT training was provided to officers and deputies around Deschutes County in order to positively enhance encounters with those in crisis"
 ---
 
@@ -26,13 +28,11 @@ Each arrest and incarceration requires considerable resources of local law enfor
 
 #### PROGRAM DESCRIPTION
 
-In the spring of 2010, community stakeholders in Deschutes County established a steering committee to identify relevant issues and work collaboratively to deliver improved services to those dealing with mental illness. Steering committee members included employees from St. Charles Medical Center; Deschutes County Behavioral Health; the Bend Police Department; Deschutes County Adult Parole and Probation; the Redmond Police Department; and the Deschutes County Sheriff’s Office. By winter of 2011, the committee had firmly established the Deschutes County Crisis Intervention Team (CIT) and developed a 40-hour CIT training program for county law enforcement based on the Memphis CIT model.
+Between 2010 and 2011 a steering committee composed of employees from St. Charles Medical Center, Deschutes County Behavioral Health, the Bend Police Department, Deschutes County Adult Parole and Probation, the Redmond Police Department, and the Deschutes County Sheriff’s Office established the Deschutes County Crisis Intervention Team (CIT) and developed a 40-hour CIT training program for county law enforcement based on the Memphis CIT model.
 
-The “Memphis Model” is an innovative police-based first responder program of pre-arrest jail diversion for those in a mental health crisis. This program provides law enforcement–based crisis intervention training for helping people with mental illness. CIT works in partnership with those in mental health care to provide a system of services that is friendly to the individuals with mental illness, family members, and the police officers. A CIT helps officers understand how to best navigate a perpetrator’s specific issues and how to guide that person not into prison but toward a hospital or proper medication. This approach is safer for officers entering potentially volatile confrontations, encourages longer-term solutions for perpetrators, and reduces crime rates in the process.
+In 2012, the CIT steering committee received a grant from the Substance Abuse and Mental Health Services Administration’s (SAMHSA) GAINS Center for Behavioral Health and Justice Transformation to conduct a Sequential Intercept Mapping (SIM) workshop, which was facilitated by Policy Research Associates, Inc. That workshop helped the community better understand its criminal justice system and identify the county’s limitations and gaps with regard to diverting people with mental illness from the criminal justice system and service delivery. 
 
-The work of the Deschutes County CIT Steering Committee was not done once the CIT training program was launched. In 2012, the CIT steering committee received a grant from the Substance Abuse and Mental Health Services Administration’s (SAMHSA) GAINS Center for Behavioral Health and Justice Transformation to conduct a Sequential Intercept Mapping (SIM) workshop, which was facilitated by Policy Research Associates, Inc. That workshop helped the community better understand its criminal justice system and identify the county’s limitations and gaps with regard to diverting people with mental illness from the criminal justice system and service delivery. That workshop led to the steering committee applying for and receiving federal grant funds to hire a full-time CIT coordinator to further meet the department’s training needs and better organize the efforts between law enforcement agencies and behavioral health treatment providers.
-
-The CIT coordinator acts as a liaison among law enforcement, legal agencies, and mental health agencies, to provide support and address problems in order to reduce the impact of allegedly mentally ill individuals on these systems. Deschutes County has substantial support from local agencies and community members to enact positive change as it relates to providing services to people with mental illness. Unfortunately, all agencies have the challenge of balancing the need for services and the ability to provide them within current budgets. Adding a CIT coordinator to synchronize support and linkage of services within Deschutes County was vital to the program.
+Following this, the committee received federal grant funds to hire a full-time CIT coordinator. The CIT coordinator acts as a liaison among law enforcement, legal agencies, and mental health agencies, to provide support and address problems in order to reduce the impact of allegedly mentally ill individuals on these systems. 
 
 A full-time CIT coordinator was hired and began working at the Bend Police Department at the end of 2013. The grant-funded position will end on March 31, 2016, but the CIT Steering Committee and the City of Bend Police Department are committed to continuing the training on an annual basis for local and regional law enforcement officers.
 
@@ -74,3 +74,8 @@ Our community has long recognized a need for the training and a strong desire to
 #### LESSONS LEARNED
 
 Team building among agencies, education on what each agency can do, and understanding that the end goal—better services and outcomes for people suffering from mental illness—is the same for all agency members have greatly increased trust and created good working relationships among community partners. Attending conferences as a team has been very beneficial.
+
+#### ADDITIONAL DOCUMENTS
+
+* [Grant Report for Deschutes County CIT Project](https://github.com/AnnieRexford/okb-copy/blob/master/content/posts/2018-01-01--Deschutes-CIT/McCabe-Report.pdf)
+* [Bend Bulletin Article](https://www.bendbulletin.com/localstate/1822910-151/crisis-intervention-team-coordinator-joins-force)
